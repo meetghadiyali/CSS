@@ -1,0 +1,37 @@
+
+
+body{
+	background-image: url(b1.jpg);
+	background-size: cover;
+}
+
+
+
+h2{
+	color: green;
+	text-align: center;
+	border: 5px dotted black;
+}
+
+p{
+	text-decoration: underline;
+	line-height: 20px
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+
+}
+
+img{
+	float: right;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+}
+
+li{
+	display: inline-block;
+	list-style: none;
+}

@@ -1,0 +1,23 @@
+
+
+body{
+	background-image: url(b2.jpg);
+}
+
+h2{
+	text-align: center;
+	color: yellow;
+	border: 5px double black;
+}
+
+.boxmodel{
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	margin: 20px
+}
+
+li{
+	display: inline-block;
+	list-style: none;
+}
